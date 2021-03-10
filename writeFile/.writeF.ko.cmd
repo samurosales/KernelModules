@@ -1,0 +1,1 @@
+cmd_/home/samuelrosales/Documents/sopes1/writeFile/writeF.ko := ld -r -m elf_x86_64 --build-id=sha1  -T ./scripts/module-common.lds -o /home/samuelrosales/Documents/sopes1/writeFile/writeF.ko /home/samuelrosales/Documents/sopes1/writeFile/writeF.o /home/samuelrosales/Documents/sopes1/writeFile/writeF.mod.o;  true

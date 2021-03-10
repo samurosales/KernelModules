@@ -1,0 +1,1 @@
+cmd_/home/samuelrosales/Documents/sopes1/writeFile/modules.order := {   echo /home/samuelrosales/Documents/sopes1/writeFile/writeF.ko; :; } | awk '!x[$$0]++' - > /home/samuelrosales/Documents/sopes1/writeFile/modules.order
